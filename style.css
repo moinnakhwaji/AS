@@ -17,6 +17,7 @@ html, body {
     /* background-color: #000; */
     position: relative;
     z-index: 10;
+    overflow: hidden;
 }
 .nav {
     padding: 2vw 0vw;
@@ -785,7 +786,7 @@ opacity: 0;
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
-    margin-top: 51vh;
+    margin-top: 30vh;
     
   }
   .elem5{
