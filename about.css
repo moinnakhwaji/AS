@@ -215,7 +215,7 @@ font-family: 'Times New Roman', Times, serif;
 
 }
 .row1{
-  height: 30vw;
+  height: 70vh;
   width: 30vw;
   background-color: #f5f5f7;
   border-radius: 35px;
@@ -284,14 +284,14 @@ background-color: #f5f5f7;
 }
 #about{
   position: relative;
-  left: 68%;
-  top: 28%;
+  left: 66%;
+  top: 29%;
   font-size: 8vw;
  
 }
 #login{
   position: relative;
-  left: 41%;
+  left: 37%;
   top: 73%;
   
   font-size: 8vw;
@@ -301,7 +301,7 @@ background-color: #f5f5f7;
 
   position: relative;
   /* left: 65%; */
-  left:12%;
+  left:9%;
   top:49%;
   font-size: 8vw;
 
@@ -632,14 +632,15 @@ background-color: #f5f5f7;
          /* background-color:#fff; */
          font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
          text-align: center;
+         margin-bottom: 13vh;
        }
        .page3con h2{
          text-align: center;
-         font-size: 8vw;
+         font-size: 9vw;
          font-weight: 900;
          line-height: 1.05;
          letter-spacing: -0.015em;
-         margin-bottom: 1vw;
+         margin-bottom: 3vh;
        }
        .page3con h3{
          text-align: center;

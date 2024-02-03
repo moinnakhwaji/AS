@@ -215,28 +215,28 @@ font-family: 'Times New Roman', Times, serif;
 }
 #about{
     position: relative;
-    left: 68%;
-    top: 28%;
+    left: 66%;
+    top: 29%;
     font-size: 8vw;
    
-}
-#login{
+  }
+  #login{
     position: relative;
-    left: 41%;
+    left: 37%;
     top: 73%;
     
     font-size: 8vw;
    
-}
-#contact{
+  }
+  #contact{
   
     position: relative;
     /* left: 65%; */
-    left:12%;
+    left:9%;
     top:49%;
     font-size: 8vw;
   
-}
+  }
 #cancel{
     /* display: block; */
     display: inline-block;
