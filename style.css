@@ -580,9 +580,8 @@ opacity: 0;
   background-color: #150700;
  
 }
-@media (min-width: 433px) and (max-width: 600px){
 
-}
+  
 
   @media (max-width:600px) {
     .nav{
@@ -640,7 +639,7 @@ opacity: 0;
         
     }
     .left-one p{
-    font-size: 2vw;
+    font-size: 2vh;
     text-align: start;
     /* line-height: 1vw; */
     
@@ -782,13 +781,13 @@ opacity: 0;
     display: block;
     height: 35vh;
     width: 100vw;
-    background-image: url(./imagefolder/co.jpeg);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
-    margin-top: 30vh;
-    
+    margin-top: 13vh;
+    background-image: url(./imagefolder/co.jpeg);
   }
+ 
   .elem5{
     display: block;
     height: 35vh;
@@ -962,3 +961,8 @@ animation-delay:3s ;
     }
   
   }
+  @media screen and (min-width: 423px) and (max-width: 599px) {
+    .elem2 {
+      margin-top: 90vw;/* Change background color to green */
+       /* background-color: #fd4410; */
+      }}
