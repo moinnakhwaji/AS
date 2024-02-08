@@ -529,7 +529,7 @@ opacity: 0;
 }
 #about{
   position: relative;
-  left: 70%;
+  left: 66%;
   top: 29%;
   font-size: 8vw;
   font-family: Neue_Montreal;
@@ -537,23 +537,23 @@ opacity: 0;
 }
 #login{
   position: relative;
-  left: 48%;
+  left: 44%;
   top: 70%;
   font-size: 8vw;
   font-weight: 900;
   font-family: Neue_Montreal;
+
  
 }
 #contact{
   position: relative;
-  left: 65%;
-  left: 21%;
+  left: 17%;
   top: 50%;
   font-size: 8vw;
   font-family: Neue_Montreal;
   font-weight: 900;
-
 }
+
 #cancel{
     /* display: block; */
     display: inline-block;
@@ -668,6 +668,8 @@ opacity: 0;
         font-weight: 800;
         text-align: left;
         color: #0b0500;
+        position: relative;
+        z-index: 19;
     
     }
     .cut{
