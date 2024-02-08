@@ -43,12 +43,13 @@ mix-blend-mode: color-burn;
 }
 
 .right a {
-    text-decoration: none;
-    color: #000000bb;
-    font-size: 1.5vw;
-    cursor: pointer;
-    font-family: chacha;
-   font-weight: 600;
+  text-decoration: none;
+  color: #000000bb;
+  font-size: 2vw;
+  cursor: pointer;
+  font-family: chacha;
+  font-weight: 900;
+  font-family: Neue_Montreal;
    
 }
 .page1{
@@ -106,7 +107,8 @@ font-family: 'Times New Roman', Times, serif;
   opacity: 0;
   /* overflow: hidden; */
   /* width: 5vw; */
-
+  position: relative;
+  z-index: 19;
 }
 .cut{
     width: 100%;
@@ -284,26 +286,28 @@ background-color: #f5f5f7;
 }
 #about{
   position: relative;
-  left: 66%;
+  left: 70%;
   top: 29%;
   font-size: 8vw;
- 
+  font-family: Neue_Montreal;
+  font-weight: 900;
 }
 #login{
   position: relative;
-  left: 37%;
-  top: 73%;
-  
+  left: 48%;
+  top: 70%;
   font-size: 8vw;
+  font-weight: 900;
+  font-family: Neue_Montreal;
  
 }
 #contact{
-
   position: relative;
-  /* left: 65%; */
-  left:9%;
-  top:49%;
+  left: 21%;
+  top: 50%;
   font-size: 8vw;
+  font-family: Neue_Montreal;
+  font-weight: 900;
 
 }
 #cancel{
