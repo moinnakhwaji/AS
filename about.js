@@ -25,7 +25,7 @@ menu.addEventListener("click",function(){
         cr = 0
     }
     else{
-        full.style.top = "-100%"
+        full.style.top = "-120%"
         cr = 1;
         console.log("not click")
     }
